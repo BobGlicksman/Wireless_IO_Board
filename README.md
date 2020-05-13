@@ -48,7 +48,7 @@ to the Photon's 3.3 volt regulator.
 A three position terminal block provides access to Photon pin D4.  The terminal block also provides
 5 volt power and ground for powering sensors, external pullups, etc. D4 is a 5 volt tolerant pin that
 can accept an input signal up to the 5 volt supply reference on the terminal strip.  The signal can
-also be used as a general purpose 5 volt digital output control at 8 ma max current.
+also be used as a general purpose 3.3 volt digital output control.
 
 ## Expansion.
 A pin header field is provided on the board for expansion purposes.  This header provides connections for
